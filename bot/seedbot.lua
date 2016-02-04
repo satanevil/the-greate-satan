@@ -239,14 +239,14 @@ Admins
 @tnt_boy1 [Manager]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+seedteam
 
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+
+
+
+baraye darkhast gp be yeki az 2 id bala payam bedid
+@BI_MOKH021
+@tnt_boy1
 ]],
     help_text_realm = [[
 Realm Commands:
